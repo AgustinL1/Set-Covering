@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624647032 source:c:\users\agus 2.0\desktop\cosas de la facu\2021 primer cuatrimestre\calculo\tpe3\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+
